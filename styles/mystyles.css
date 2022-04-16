@@ -1,0 +1,24 @@
+.blue {
+    color:rgb(151, 151, 224);
+}
+
+.italicize {
+    font-style: italic;
+}
+
+.differentfont {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.rightjustify {
+    text-align: right;
+}
+
+.bluebackground {
+    background-color: rgb(167, 167, 255);
+}
+
+.center {
+    text-align: center;
+}
+
